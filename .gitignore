@@ -29,7 +29,7 @@ coverage/
 *.swp
 
 # misc
-*.tgzpackage-lock.json
+*.tgz
 
 package-lock.json
 yarn.lock
